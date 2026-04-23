@@ -1,1 +1,1 @@
-FROM vllm/vllm-openai:glm51
+FROM vllm/vllm-openai:glm51-cu130
